@@ -1,12 +1,12 @@
-# Montagem do ambiente de desenvolvimento (Docker e IDE)
-# Criar uma aplicacao Node.js + Typescript
-# Crar entidade de Categoria
-# Criar testes - unit / integracao
-# Criar Casos de uso e Repositorio
-# Criar testes
+- Setting up the development environment (Docker and IDE)
+- Create a Node.js + Typescript application
+- Create the Category entity
+- Create tests - unit / integration
+- Create Use Cases and Repository
+- Create tests
 
-# Repetir para as outras entidades
+- Repeat for the other entities
 
-# Nestjs - Criacao de API Rest Genre, Cast member, Video
-# Integracao com RabbitMQ e Encoder de video
-# Testes E2E (End-to-End)
+- Nestjs - Creation of Rest API for Genre, Cast member, Video
+- Integration with RabbitMQ and Video Encoder
+- End-to-End (E2E) tests
